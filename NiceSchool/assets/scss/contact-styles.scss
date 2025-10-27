@@ -1,0 +1,10 @@
+// ===================================
+// SADECE CONTACT STİLLERİ GİRİŞ NOKTASI
+// Bu dosya, contact.css'i oluşturmak için derlenecektir.
+// ===================================
+
+// 1. Değişkenleri Yükle
+@use 'abstracts/variables' as *; 
+
+// 2. Contact Bileşenini Yükle
+@import 'components/contact';

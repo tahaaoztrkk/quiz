@@ -1,0 +1,21 @@
+// ===================================
+// Temel SASS Değişkenleri
+// Bu değerler, genellikle Bootstrap tema dosyalarınızın başından veya
+// ana CSS dosyanızdan alınmıştır.
+// ===================================
+
+// Renkler
+$primary: #47b2e4;        // Örneğin, birincil renk
+$accent-color: #106EEA;   // Tema rengi (Mavi gibi)
+$default-color: #212529;  // Ana metin rengi (Koyu Gri/Siyah)
+$surface-color: #ffffff;  // Kartların ve formun arka plan rengi
+$contrast-color: #ffffff; // Buton metin rengi
+
+// Boşluklar (Opsiyonel ama iyi bir pratik)
+$spacing-small: 15px;
+$spacing-medium: 25px;
+$spacing-large: 40px;
+
+// Gölgeler (Opsiyonel)
+$shadow-sm: 0 5px 25px rgba(0, 0, 0, 0.05);
+$shadow-md: 0 8px 30px rgba(0, 0, 0, 0.1);
